@@ -1,1 +1,0 @@
-import{d as o,r as t,c as a,a as s,w as n,o as r,b as c,_}from"./index-3vL-3OJ4.js";const d={class:"card"},p=o({__name:"index",setup(i){return(l,m)=>{const e=t("router-link");return r(),a("div",d,[s(e,{to:"/world"},{default:n(()=>[c(" 世界各国地图 ")]),_:1})])}}}),x=_(p,[["__scopeId","data-v-5887d289"]]);export{x as default};
